@@ -1,0 +1,1 @@
+print("kietdeptraiso1tg")
