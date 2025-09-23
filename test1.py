@@ -1,1 +1,0 @@
-print("kietdeptraiso1tg")
